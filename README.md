@@ -3,7 +3,8 @@ Solution methods for counterfactual explanations for linear optimization problem
 
 The repository contains code for the solution methods presented in the following paper:
 
-Kurtz J., Birbil S.I., den Hertog D. (2024). Counterfactual Explanations for Linear Optimization. arxiv preprint
+Kurtz, J., Birbil, Ş. İ., & den Hertog, D. (2025). Counterfactual explanations for linear optimization. European Journal of Operational Research.
+Link: https://doi.org/10.1016/j.ejor.2025.06.016
 
 Code: 
 The following methods are covered:
